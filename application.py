@@ -32,7 +32,7 @@ welcome = """
     or in the "license" file accompanying this file. This file is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
   -->
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <title>Welcome</title>
+  <title>AWS Test AP</title>
   <style>
   body {
     color: #ffffff;
@@ -107,7 +107,7 @@ welcome = """
 <body id="sample">
   <div class="textColumn">
     <h1>Congratulations....! Hello World..!</h1>
-    <p>Your first AWS Elastic Beanstalk Python Application is now running on your own dedicated environment in the AWS Cloud</p>
+    <p>Your AWS APapp-Ashok</p>
     <p>This environment is launched with Elastic Beanstalk Python Platform</p>
   </div>
   
